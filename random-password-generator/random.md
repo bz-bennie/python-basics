@@ -1,0 +1,1 @@
+'random-password-1.py' and '2' are my own attempts to create a simple but random password generators. This is my first project I have done on my own. That being said I wanted to learn more efficent ways to code the project. I have included 'random-password-efficient.py' as such. 
